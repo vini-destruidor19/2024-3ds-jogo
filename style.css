@@ -1,0 +1,20 @@
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Whisper&
+
+*{
+    margin: 0;
+    padding: 0;
+    front-weight: 400;
+}
+
+:root{
+    - preto: #000000ff;
+    --cinza escuro: #66666eff;
+    --cinza : #9999a1ff;
+    --cinza claro: #e6e6e9ff;
+    --branco: #f4f4f6ff;
+    --fonte-titulo:Whisper", cursive;
+    --fonte-titulo:Open Sans", sans-serif;
+}
